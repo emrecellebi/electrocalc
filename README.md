@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Test
-=======
 # electrocalc
 
 - ``-h`` yada ``--help`` Yardım Dökümanı
@@ -26,4 +23,3 @@
 - ``electrocalc -m 5 2`` Sonuç 10
 - ``electrocalc -d 5 2`` Sonuç 2
 - ``electrocalc -s 5 2`` Sonuç 3
->>>>>>> 21e2c2b (github | electrocalc Project)
